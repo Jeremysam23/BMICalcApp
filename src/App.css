@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(to right, #dbeafe, #e0f2fe);
+  font-family: "Poppins", sans-serif;
+}
+
+.card {
+  max-width: 400px;
+  margin: auto;
+  border-radius: 1rem;
+}
